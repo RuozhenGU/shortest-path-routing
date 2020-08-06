@@ -1,0 +1,1 @@
+python3 vrouter.py $1 $2 $3
